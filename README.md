@@ -16,3 +16,7 @@
 ## Potenciometra na razširitveni ploščici
 ![Pot.](media/6E4D510E-8F62-42F3-8253-EE825766FBE1.jpeg)
 
+
+## Komentar
+
+Pri kodi je bil manjši problem z debug funkcijo. Problem pa se je rešil z ponovnim zagonm.
