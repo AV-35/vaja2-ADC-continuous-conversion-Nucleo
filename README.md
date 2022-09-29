@@ -5,8 +5,7 @@
    - Uporabljena razvojna plošča je **NUCELO-G431RB**.
    - Izbran pin je **PA0** na plošči je to **A0**.  
    - Poleg pina se izpiše **ADC1_IN1**.
-   - Opazimo da se spremeniju toudi druge stvari npr. HCLK je zdaj **64 MHz** namesto **170 MHz**.
-   - Ppreskalirana frekvenc je **16 Mhz**.
+   - Opazimo da se spreminjajo toudi druge stvari npr. HCLK je zdaj **64 MHz** namesto **170 MHz**.  
    - $f$preskalirana = **16Mhz**.
    - $t_{vz}$ = 259.5/16 Mhz = 16.84 ms.
 
